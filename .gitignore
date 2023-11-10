@@ -49,6 +49,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+ obj/*
 
 launchSettings.json
 docker-compose.*
